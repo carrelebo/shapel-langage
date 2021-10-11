@@ -1,0 +1,9 @@
+na pita, baa !
+
+na = la
+
+pita = paix / salut
+
+baa = toi
+
+formuler sur une phrase logique celà donne : "que la pai soit toi"/ "je te passe le salut".
