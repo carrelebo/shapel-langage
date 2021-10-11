@@ -4,6 +4,6 @@ na = la
 
 pita = paix / salut
 
-baa = toi
+baa = toi / tu
 
 formuler sur une phrase logique celà donne : "que la pai soit toi"/ "je te passe le salut".
