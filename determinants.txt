@@ -1,0 +1,8 @@
+le = ni
+la = na
+
+un = in
+une = an
+
+des = ins
+les = nis
