@@ -11,4 +11,16 @@ les = nis
 
 article defini :
 
-(ajouter ton, mon ta ect...)
+ton = pri
+ta = pra
+
+mon = mir
+ma = mar
+
+son = si
+sa = sa
+
+mes = mirs
+tes = pris
+
+(voir la suite sur un fichier "avancer")
