@@ -1,3 +1,5 @@
+article indéfini :
+
 le = ni
 la = na
 
@@ -6,3 +8,7 @@ une = an
 
 des = ins
 les = nis
+
+article defini :
+
+(ajouter ton, mon ta ect...)
