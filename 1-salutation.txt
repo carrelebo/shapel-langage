@@ -1,11 +1,11 @@
-na pita, baa !
+na pita, ba !
 
 na = la
 
 pita = paix / salut
 
-baa = toi / tu
+ba = toi / tu
 
-formuler sur une phrase logique celà donne : "que la pai soit toi"/ "je te passe le salut".
+formuler sur une phrase logique celà donne : "que la paix soit toi"/ "je te passe le salut".
 
 on peut aussi l'utiliser pour dire "bonjour" :)
