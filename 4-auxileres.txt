@@ -1,7 +1,6 @@
-(pour les auxilère; le verbe être sera "come"; et le verbe avoir avoir "site"; les terminaison se termineront par la lettre de pronom personelle
-par exemple : je suis = i comi; j'ai = i siti).
+pour les auxilère; le verbe être sera "come"; et le verbe avoir avoir "site", l'idicatif est se termine par un "e" pour signe de neutralité; les terminaison se termineront par la dernière lettre de pronom personelle et toutes les lettres ce lisent
+par exemple : je suis = i comi; j'ai = i siti
 
-(écrire la conjugaison)
 
 come (être):
 
@@ -20,3 +19,16 @@ bas coms
 abis coms
 
 ibas coms
+
+
+site (avoir):
+
+i siti
+
+ba sita
+
+abi siti
+
+iba sita
+
+nabi
