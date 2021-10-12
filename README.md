@@ -16,4 +16,4 @@ pour le mot où le "e" à la fin d'un mots symbolise la neutralité, aucun genre
 la langue shapel est dite "résonner", il faut faire un résonnement pour comprendre un mot et connaître son étymologie est très importante
 pour comprendre la langue, par exemple : pour dire "fille" celà s'écris "kida" il vient du mot "kide" qui signifie "enfant"
 et la teminaison "a" pour mettre le mot au féminin celà donne "enfant féminin" = fille;
-pour le garçon; kidi = kide + i = "enfant masculin" = garçon
+pour le garçon; kidi = kide + terminaison en "i" = "enfant masculin" = garçon
