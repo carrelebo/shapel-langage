@@ -1,8 +1,12 @@
 les personnes :
 
-enfant = kide
 homme = doni
 femme = dona
+
+enfant = kide
+
+garçon = kidi
+fille = kida
 
 (au pluriels il suffit d'ajouteer un "s" qui se prononce par exemple : i siti ins kides (j'ai des enfants), le "e" se prononce aussi)
 
