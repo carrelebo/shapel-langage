@@ -5,4 +5,6 @@ se language ne sera pas à confondre un future projet qui verra peut-être le jo
 
 et c'est un languge de communication, non un language de programmation.
 
+
+la langue peux subir des modification légère ou drastic à tout moments !
 (langue fondé par Benstitou Sofiane (carrelebo))
