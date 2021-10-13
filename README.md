@@ -10,7 +10,8 @@ les mot en "phase de test et de conception" sont dans le fichier "idees.txt"
 
 fonctionnement :
 
-les mots masculins se terminent par un "i", les mot feminin par un "a" pour le pluriel on ajoute simplement un "s", ces règles s'applique pour les pronoms personnels;
+les mots masculins se terminent par un "i", les mot feminin par un "a" pour le pluriel on ajoute simplement un "s", ces règles s'applique pour les pronoms personnels ("ba" est par défault au féminin, mais il est aussi utiliser pour les garçons";
+
 pour le mot où le "e" à la fin d'un mots symbolise la neutralité, aucun genre ou sujet ne lui a était associer.
 
 la langue shapel est dite "résonner", il faut faire un résonnement pour comprendre un mot et connaître son étymologie est très importante
