@@ -1,11 +1,21 @@
-manger
+#manger = stare
+#boire = bare
 
-boir
+stare (manger):
+i
 
-pouvoir
+ba
 
-vouloir
 
-devoirs
 
-falloir
+bare (boir):
+
+
+
+(pouvoir)
+
+(vouloir)
+
+(devoirs)
+
+(falloir)
