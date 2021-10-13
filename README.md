@@ -17,3 +17,5 @@ la langue shapel est dite "résonner", il faut faire un résonnement pour compre
 pour comprendre la langue, par exemple : pour dire "fille" celà s'écris "kida" il vient du mot "kide" qui signifie "enfant"
 et la teminaison "a" pour mettre le mot au féminin celà donne "enfant féminin" = fille;
 pour le garçon; kidi = kide + terminaison en "i" = "enfant masculin" = garçon
+
+et pas besoin de majuscule sur cette langue à l'écrit !
