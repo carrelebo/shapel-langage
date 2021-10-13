@@ -12,7 +12,7 @@ abi comi
 
 iba coma
 
-ani comi
+is comi
 
 bas coms
 
@@ -31,7 +31,7 @@ abi siti
 
 iba sita
 
-ani siti
+is siti
 
 bas sita
 
