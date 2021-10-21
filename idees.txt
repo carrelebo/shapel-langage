@@ -13,8 +13,10 @@ fille = kida
 nourriture/boisson :
 
 eau = vitsa
+poisson = cap
 
 verbe:
 
-manger = stare
-boire = bare
+autres vocabulaire :
+
+équipe = squada
