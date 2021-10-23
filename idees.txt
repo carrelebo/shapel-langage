@@ -13,7 +13,7 @@ fille = kida
 nourriture/boisson :
 
 eau = vitsa
-poisson = cap
+poisson = capi
 
 verbe:
 
