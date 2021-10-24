@@ -11,6 +11,11 @@ les = nis
 
 article defini :
 
+de = de
+du = de
+      - > pour dire "de" et "du" c'est pareil car de base on ne cite pas le genre donc le mot se termine par un "e" et on veut citer un nom,
+          per exemple : "in capi de catsi", ce qui donne en français brute "le poisson de chat", pour un objet on le dit comme si c'est un prénom ou nom.
+
 ton = pri
 ta = pra
 
